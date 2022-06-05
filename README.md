@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stmio&count_private=true&show_icons=true&include_all_commits=true&title_color=FFFFFF&text_color=959595&icon_color=72ef8e&bg_color=151515&hide_border=true)](https://github.com/stmio/stmio)
 
 <!--
 **stmio/stmio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
