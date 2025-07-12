@@ -8,7 +8,7 @@ My main interests lie in Machine Learning and its utility to problems in the nat
 - Vice President of the [Warwick Artificial Intelligence](https://warwick.ai/) society.
 - Lead Organiser of the [Warwick Hackathon](https://warwickhack.co.uk/).
 - An [undergraduate researcher](https://warwick.ac.uk/urss/) of algorithmic Reinforcement Learning improvements, and their applications to fine-tuning LLMs.
-- Contributor to cool [open-source projects in my free time](https://github.com/stmio/), such as PufferLib.
+- Contributor to cool [open-source projects in my free time](https://github.com/stmio/), such as [PufferLib](https://github.com/pufferai/pufferlib/).
 
 <!--
 **stmio/stmio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
