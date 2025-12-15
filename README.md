@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/sheep-dark-mode.png">
+  <source media="(prefers-color-scheme: light)" srcset="./img/sheep-light-mode.png">
+  <img height="56px" src="./img/sheep-transparent.png">
+</picture>
+
 ### Hi there 👋
 
 I'm Sam, a Computer Science student from the West Midlands, United Kingdom. 🇬🇧
