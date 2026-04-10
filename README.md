@@ -11,7 +11,7 @@ I'm Sam, a Computer Science student from the West Midlands, United Kingdom. 🇬
 My main interests lie in Machine Learning and its utility to problems in the natural sciences. I am currently:
 
 - An undergraduate at the [Dept. of Computer Science, University of Warwick](https://dcs.warwick.ac.uk).
-- An incoming Software Engineering Intern at Google for the summer of 2026.
+- An incoming Software Engineering Intern at [Google](https://about.google) for the summer of 2026.
 - President of the [Warwick Artificial Intelligence](https://warwick.ai/) society.
 - Lead Organiser of the [Warwick Hackathon](https://warwickhack.co.uk/).
 - An [undergraduate researcher](https://warwick.ac.uk/urss/) of algorithmic Reinforcement Learning improvements, and their applications to fine-tuning LLMs.
