@@ -6,14 +6,12 @@
 
 ### Hi there 👋
 
-I'm Sam, a Computer Science student from the West Midlands, United Kingdom. 🇬🇧
+I'm Sam, a Computer Science student from the West Midlands, United Kingdom. Right now, I am:
 
-My main interests lie in Machine Learning and its utility to problems in the natural sciences. I am currently:
-
-- An undergraduate at the [Dept. of Computer Science, University of Warwick](https://dcs.warwick.ac.uk).
-- A Software Engineering ([Site Reliability](https://sre.google)) Intern at [Google](https://about.google) for the summer of 2026.
+- An incoming [Site Reliability Engineer](https://sre.google) at Google, following an internship in the summer of 2026. 
+- A final-year undergraduate at the [Deptartment of Computer Science, University of Warwick](https://dcs.warwick.ac.uk).
 - President of the [Warwick Artificial Intelligence](https://warwick.ai/) society.
-- Lead Organiser of the [Warwick Hackathon](https://warwickhack.co.uk/).
+- Lead Organiser of the '25 and '26 [Warwick Hackathon](https://warwickhack.co.uk/).
 - Contributor to cool open-source projects in my free time, such as [PufferLib](https://github.com/pufferai/pufferlib/).
 
 <!--
