@@ -9,7 +9,7 @@
 I'm Sam, a Computer Science student from the West Midlands, United Kingdom. Right now, I am:
 
 - An incoming [Site Reliability Engineer](https://sre.google) at Google, following an internship in the summer of 2026. 
-- A final-year undergraduate at the [Deptartment of Computer Science, University of Warwick](https://dcs.warwick.ac.uk).
+- A final-year undergraduate at the [Department of Computer Science, University of Warwick](https://dcs.warwick.ac.uk).
 - President of the [Warwick Artificial Intelligence](https://warwick.ai/) society.
 - Lead Organiser of the '25 and '26 [Warwick Hackathon](https://warwickhack.co.uk/).
 - Contributor to cool open-source projects in my free time, such as [PufferLib](https://github.com/pufferai/pufferlib/).
